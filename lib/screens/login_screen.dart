@@ -46,7 +46,7 @@ class _LoginScreenState extends State<LoginScreen> {
                   const SizedBox(height: 40),
                   AuthTextField(
                     controller: _emailController,
-                    hintText: 'Email',
+                    hintText: 'Emailsssssss',
                     prefixIcon: Icons.email_outlined,
                     validator: (value) {
                       if (value == null || value.isEmpty) {
